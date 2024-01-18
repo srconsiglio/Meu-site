@@ -1,0 +1,40 @@
+*{
+    
+    padding: 0;
+    
+}
+
+
+.Logo{
+    height: 150px;
+    width: 150px;
+}
+
+
+h1{
+    color: white;
+    margin-left: 15px;
+}
+
+h2{
+    color: white;
+    margin-left: 15px;
+}
+
+
+.Home{
+    background-color: black;
+}
+
+.nav-bar ul{
+    display: flex;
+    list-style-type: none;
+    color: white;
+    margin-left: 15px;
+
+}
+
+li{
+    margin-top: 500px;
+    margin-right: 20px ;
+}
