@@ -7,7 +7,9 @@ function Home() {
         
 
         <div className='Home'>
+            <img src={Logo} className='Logo'/>
         <h1>Oi, Me Chamo Caio!</h1>
+        </div>
         <h2>Sou Desenvolvedor Full Stack.</h2>
         <nav className='nav-bar'>
             
@@ -18,7 +20,7 @@ function Home() {
                 <li>Contato</li>
             </ul>
         </nav>
-    </div>
+    
     </>
     )
 }

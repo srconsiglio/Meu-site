@@ -5,8 +5,10 @@ import '../MeusProjetos/MeusProjetos.css'
 function MeusProjetos(){
     return(
         <>
-        <img src={Logo} className='Logo'/>
-        <h1>Meus Projetos</h1>
+        <div className='Logotexto'> 
+            <img src={Logo} className='Logo'/>
+            <h1>Meus Projetos</h1>
+        </div>
         <div className='tabelas'>
             <div className='Tabela1'>
                 <h1>GFgrafic</h1>

@@ -1,0 +1,16 @@
+.Logo{
+    width: 150px;
+    right: 250px;
+}
+
+h1{
+    color: white;
+    padding-left: 15px;
+}
+
+.Tabelas{
+    display: flex;
+    justify-content: space-around;
+    text-align: justify;
+    
+}

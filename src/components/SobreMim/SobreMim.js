@@ -6,9 +6,12 @@ import Logo from '../images/html.png'
 function SobreMim(){
     return(
             <>
-                <img src= {Logo} className='Logo'/>
-                <div className= 'SobreMim'>
+                <div className='LogoText'>
+                    <img src= {Logo} className='Logo'/>
                     <h1>Sobre Mim</h1>
+                </div>
+                <div className= 'SobreMim'>
+                    
                     <p>Sou uma pessoa bem criativo e comunicativo, portanto uso essas duas habilidades ao meu favor...
                     Gosto muito de mexer na parte que precisa da criação e imaginação, conheço o básico em redes, programação web, 
                     montagem e desmontagem de computadores, planilhas no draw.io.

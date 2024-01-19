@@ -11,6 +11,13 @@ h1{
     text-align: justify;
 }
 
-.SobreMim{
-    
+.LogoText{
+    display: flex;
+    align-items: center;
+    font-size: xx-large;
+
+}
+
+.LogoText h1{
+    padding: 0px;
 }

@@ -1,0 +1,60 @@
+.Logo{
+    width: 150px;
+    right: 250px;
+}
+
+h1{
+    color: white;
+    padding-left: 15px;
+}
+
+
+h2{
+    color: white;
+}
+
+.Habilidades{
+    display: flex;
+    justify-content: space-around;
+    text-align: justify;
+}
+
+
+
+.React{
+    width: 100px;
+    right: 200px;
+}
+
+
+.Java{
+    width: 100px;
+    right: 200px;
+}
+
+
+.Css{
+    width: 100px;
+    right: 200px;
+}
+
+
+.Html{
+    width: 100px;
+    right: 200px;
+}
+
+
+.Sql{
+    width: 100px;
+    right: 200px;
+}
+
+.Node{
+    width: 100px;
+    right: 200px;
+}
+
+.Contato{
+    margin-bottom: 50px;
+}
